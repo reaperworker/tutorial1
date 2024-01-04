@@ -1,12 +1,8 @@
 ### MIDI ファイルについて
-```
-x1.mid
-```
+#### [x1.mid](https://github.com/reaperworker/tutorial1/blob/main/x1.mid)  
 E4(064)をベロシティ1から127まで１回だけ鳴らします。
 IvoryII GrandPianos はこちらで十分だと思います。
-```
-x100.mid
-```
+#### [x100.mid](https://github.com/reaperworker/tutorial1/blob/main/x100.mid)  
 E4(064)をベロシティ1から127まで100回づつ鳴らします。
 Ivory3 にはラウンドロビン的な機能があるのでしょうか？
 無いことが明らかであれば x1.mid を使用してください、
