@@ -35,3 +35,6 @@ Ivory3 にはラウンドロビン的な機能があるのでしょうか？
 
 8. 必要があればプロジェクトを保存します。  
 [File]->[Save project]
+
+### レンダリングできたら
+[ここにアップロードしてください。](https://ux.getuploader.com/how2reaper/)
